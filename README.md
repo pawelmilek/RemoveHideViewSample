@@ -1,1 +1,1 @@
-# RemoveHideViewDemo
+# RemoveHideViewSample
